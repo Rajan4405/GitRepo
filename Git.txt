@@ -36,6 +36,8 @@ Git basic command:
 
 	9. git remote add origin <url>
 	git remote add origin git@github.com:Rajan4405/GitRepo.git
+
+	10. git push -u origin main
 	
 	. git log
 	
