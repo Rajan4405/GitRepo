@@ -16,7 +16,27 @@ Git basic command:
 
 	4. git commit -m "commit message"
 	
-		Commit changes to head	
+		Commit changes to head
+
+	5. git rm --cached <file_name>
+		
+		To remove files from Staging area(Unstage)
+
+	6. git branch <branch_name>
+		 
+		 To create new Branch with name as branch_name
+
+	7. git checkout <branch_name>
+		
+		To switch from current branch to another
+
+	8. git merge <branch_name>
+
+		To merge branch into current branch		 			
+
+	9. git log
+	
+		The Git Log tool allows you to view information about previous commits that have occurred in a project. The simplest version of the log command shows the commits that lead up to the state of the currently checked out branch. These commits are shown in reverse chronological order (the most recent commits first).	
 
 
 }
