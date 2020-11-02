@@ -1,3 +1,3 @@
-#Git and Github Tutorial
+#GitandGithubTutorial
 
 Quick code camp
