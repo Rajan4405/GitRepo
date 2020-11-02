@@ -34,7 +34,10 @@ Git basic command:
 
 		To merge branch into current branch		 			
 
-	9. git log
+	9. git remote add origin <url>
+	git remote add origin git@github.com:Rajan4405/GitRepo.git
+	
+	. git log
 	
 		The Git Log tool allows you to view information about previous commits that have occurred in a project. The simplest version of the log command shows the commits that lead up to the state of the currently checked out branch. These commits are shown in reverse chronological order (the most recent commits first).	
 
